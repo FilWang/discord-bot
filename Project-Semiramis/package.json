@@ -1,0 +1,8 @@
+{
+    "name": "Semiramis-Bot",
+    "version": "1.0.0",
+    "description": "My personal Discord bot",
+    "main": "bot.js",
+    "author": "Baalegar#8610/Philip-Wang",
+    "dependencies": {}
+}
